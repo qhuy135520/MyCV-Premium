@@ -387,7 +387,7 @@ body {
 }
 
 @media (max-width: 877px) {
-  .container {
+  .grid {
     grid-template-columns: 1fr;
   }
 }
